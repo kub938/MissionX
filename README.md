@@ -4,7 +4,7 @@ macOS Mission Control에서 창 썸네일 위에 커서를 올리면 닫기 버�
 
 ## 다운로드
 
-[최신 릴리스](https://github.com/kub938/MissionX/releases/latest)에서 Apple Silicon용 앱을 다운로드할 수 있습니다.
+[Apple Silicon용 앱 다운로드](https://github.com/kub938/MissionX/raw/refs/heads/main/downloads/MissionX-v0.6.1-macos-arm64.zip) · [릴리스 안내](https://github.com/kub938/MissionX/releases/latest)
 
 현재 버전: **0.6.1** · 닫기 버튼 크기: **22포인트**
 
